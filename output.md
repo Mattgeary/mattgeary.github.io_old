@@ -1,3 +1,8 @@
+---
+layout: default
+title: Output
+---
+
 ##__Published papers__
 
 __Geary, M.__, Fielding, A. H., McGowan, P. J. K., & Marsden, S. J. (2015). Scenario-Led Habitat Modelling of Land Use Change Impacts on Key Species. PLoS ONE, 10(11), e0142477. http://doi.org/10.1371/journal.pone.0142477
