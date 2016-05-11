@@ -14,6 +14,8 @@ __Geary, M__, Fielding, A & Marsden, SJ (2013), Designing mosaic landscapes for 
 
 __Geary M__, Fielding AH, Marsden SJ (2012) The anatomy of population change in a black grouse population 1992-2008. Oecologia;168(1):73-81. doi: 10.1007/s00442-011-2062-5.
 
+<img class="right" src="images/workdesk.jpg" width="250" height="500" title="My work">
+
 ##__Reports__
 
 Nelson, H. P., Devenish-Nelson, E. S., __Geary, M.__, Lawrence, A., & Rusk, B. L., 2015a. A literature review of climate change impacts, vulnerability and adaptation of dry forest ecosystem biodiversity and services in the Caribbean. Forestry and National Parks Department, Government of Grenada.  

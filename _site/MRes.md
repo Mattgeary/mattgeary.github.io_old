@@ -20,8 +20,7 @@ part of the MRes, please contact Dr Matt Hartley
 (<M.Hartley@Chester.ac.uk>) for a full list of the wildlife behaviour
 and conservation projects available.
 
-**Monitoring the White-Faced Darter (*Leucorrhinia dubia*)
-Reintroduction**
+**Monitoring the White-Faced Darter (*Leucorrhinia dubia*) Reintroduction**
 
 White-faced darter are a habitat-specialist dragonfly which is
 currently classified as endangered on the British Red Data list. They
