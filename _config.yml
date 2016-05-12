@@ -1,11 +1,12 @@
 # Site settings
-title: Matt Geary - Conservation Biology
+title: Matt Geary - Lecturer in Conservation Biology
 email: mattg533@gmail.com
+email: M.Geary@Chester.ac.uk
 description: "Personal Website - Matt Geary: Conservation Biology, Ecology, Species Recovery, Reintroduction, Modelling, Habitat, Analysis"
 baseurl: ""
-url: "http://yourdomain.com"
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://www.chester.ac.uk/departments/biological-sciences/staff/matt-geary"
+twitter_username: MattGeary
+github_username:  MattGeary
 
 # Build settings
 markdown: kramdown
