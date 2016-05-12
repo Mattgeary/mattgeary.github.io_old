@@ -12,5 +12,5 @@ github_username:  MattGeary
 markdown: kramdown
 kramdown:
   input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
-  hard_wrap: true
+  hard_wrap: false
 permalink: pretty

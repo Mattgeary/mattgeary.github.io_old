@@ -5,13 +5,13 @@
     <description>Personal Website - Matt Geary: Conservation Ecology, Species Recovery, Reintroduction, Modelling, Habitat, Analysis</description>
     <link>http://www.chester.ac.uk/departments/biological-sciences/staff/matt-geary/</link>
     <atom:link href="http://www.chester.ac.uk/departments/biological-sciences/staff/matt-geary/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 12 May 2016 11:37:18 +0100</pubDate>
-    <lastBuildDate>Thu, 12 May 2016 11:37:18 +0100</lastBuildDate>
+    <pubDate>Thu, 12 May 2016 11:46:15 +0100</pubDate>
+    <lastBuildDate>Thu, 12 May 2016 11:46:15 +0100</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     
       <item>
         <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!&lt;br /&gt;
+        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
 To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
 
 &lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;

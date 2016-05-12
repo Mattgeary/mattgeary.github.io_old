@@ -75,4 +75,4 @@ nest protection techniques on protecting artificially constructed nests.
 The project is in partnership with Forest Enterprise Scotland, who would
 contribute to and support fieldwork equipment and costs. This project
 would suit a student who is keen to work in the field. It will require
-good networking skills and the ability to work independently.//
+good networking skills and the ability to work independently.
