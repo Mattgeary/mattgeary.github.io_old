@@ -3,8 +3,8 @@ layout: default
 title: Output
 ---
 
-Published papers
-===================
+## Published papers 
+
 
 **Geary, M.**, Fielding, A. H., McGowan, P. J. K., & Marsden, S. J. (2015). Scenario-Led Habitat Modelling of Land Use Change Impacts on Key Species. PLoS ONE, 10(11), e0142477. http://doi.org/10.1371/journal.pone.0142477
 
@@ -20,10 +20,15 @@ Wardrop, N.A., **Geary, M.**, Osborne, P.E., Atkinson, P.M., 2014. Interpreting 
 
 **Geary M**, Fielding AH, Marsden SJ (2012) The anatomy of population change in a black grouse population 1992-2008. Oecologia;168(1):73-81. doi: 10.1007/s00442-011-2062-5.
 
-<img class="right" src="images/workdesk.jpg" width="500" height="200" title="My work">
+<br> 
 
-Reports
-==========
+![My Work](../images/workdesk.jpg){: .floatCenter}{: height="300px" width="600px"}
+
+<br>
+
+## Reports 
+
+
 
 Nelson, H. P., Devenish-Nelson, E. S., **Geary, M.**, Lawrence, A., & Rusk, B. L., 2015a. A literature review of climate change impacts, vulnerability and adaptation of dry forest ecosystem biodiversity and services in the Caribbean. Forestry and National Parks Department, Government of Grenada.  
 

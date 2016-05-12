@@ -3,12 +3,14 @@ layout: default
 title: MRes Projects
 ---
 
-MRes Opportunities with Dr Matt Geary at the University of Chester
-====================================================================
+# MRes Opportunities with Dr Matt Geary at the University of Chester  
+
 
 During the next academic year I have two research opportunities for
 students who would be interested in undertaking a masters by research
-degree programme.
+degree programme.  
+
+<br>
 
 Our MRes programme falls under the umbrella title of [MRes in Applied
 Sciences](http://www.chester.ac.uk/postgraduate/applied-sciences-mres). The
@@ -24,10 +26,11 @@ information about either of these projects please contact Dr Matt Geary
 (<M.Geary@Chester.ac.uk>). A wider range of projects are available as
 part of the MRes, please contact Dr Matt Hartley
 (<M.Hartley@Chester.ac.uk>) for a full list of the wildlife behaviour
-and conservation projects available. //
+and conservation projects available. 
 
-Monitoring the White-Faced Darter (*Leucorrhinia dubia*) Reintroduction
--------------------------------------------------------------------------
+<br>
+
+## Monitoring the White-Faced Darter (*Leucorrhinia dubia*) Reintroduction  
 
 White-faced darter are a habitat-specialist dragonfly which is
 currently classified as endangered on the British Red Data list. They
@@ -50,10 +53,11 @@ especially useful for future habitat management. This MRes project would
 concentrate on these tasks and contribute to quantitative assessment of
 the reintroduction programme. The project is in partnership with
 Cheshire Wildlife Trust. This MRes project would be heavily fieldwork
-based and require good networking skills.  //
-  
-Nest protection for woodland grouse
--------------------------------------
+based and require good networking skills.  
+
+<br>
+
+## Nest protection for woodland grouse  
 
 The nests of ground nesting birds are vulnerable to predation by
 terrestrial mammals. In the case of capercaillie (*Tetrao urogallus*)
