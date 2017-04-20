@@ -5,6 +5,9 @@ title: Output
 
 ## Published papers 
 
+**Geary, M.**, Haworth, P.H. & Fielding, A.H. Hen harrier Circus cyaneus nest sites on the Isle of Mull are associated with habitat mosaics and constrained by topography. _Under review with Biological Conservation._
+
+Nelson, H.P., Devenish-Nelson, E., **Geary, M.**, Rusk, B., & Lawrence, A., A systematic review of climate change impacts on tropical dry forest in a biodiversity hotspot. Under review with Forest Ecology and Management.
 
 **Geary, M.**, Fielding, A. H., McGowan, P. J. K., & Marsden, S. J. (2015). Scenario-Led Habitat Modelling of Land Use Change Impacts on Key Species. PLoS ONE, 10(11), e0142477. http://doi.org/10.1371/journal.pone.0142477
 
@@ -19,6 +22,14 @@ Wardrop, N.A., **Geary, M.**, Osborne, P.E., Atkinson, P.M., 2014. Interpreting 
 **Geary, M**, Fielding, A & Marsden, SJ (2013), Designing mosaic landscapes for Black Grouse Tetrao tetrix using multi-scaled models. Ibis; 155: 792–803. doi: 10.1111/ibi.12090
 
 **Geary M**, Fielding AH, Marsden SJ (2012) The anatomy of population change in a black grouse population 1992-2008. Oecologia;168(1):73-81. doi: 10.1007/s00442-011-2062-5.
+
+<br>
+
+## Conference Presentations
+
+British Ecological Society Annual Meeting 2016 – “Hen harrier Circus cyaneus nest sites on the Isle of Mull are associated with habitat mosaics and constrained by topography” 
+
+British Ornithologists Union Conference 2013 - "Landscape simulation of an upland bird population" 
 
 <br> 
 
