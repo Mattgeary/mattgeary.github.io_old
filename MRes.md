@@ -10,8 +10,8 @@ During the next academic year I have several research opportunities for
 students who would be interested in undertaking a masters by research
 degree programme.
 
-Our MRes programme falls under the umbrella title of [MRes in Applied
-Sciences](http://www.chester.ac.uk/postgraduate/applied-sciences-mres). The
+Our MRes programme falls under the umbrella title of [MRes in Biological
+Sciences](http://www.chester.ac.uk/biological-sciences/research/MRes-programmes). The
 course consists of two taught modules completed in the first term
 followed by extended research project for the rest of the course.
 Students are expected to have contacted a potential supervisor and
@@ -25,6 +25,8 @@ information about either of these projects please contact Dr Matt Geary
 part of the MRes, please contact Dr Matt Hartley
 (<M.Hartley@Chester.ac.uk>) for a full list of the wildlife behaviour
 and conservation projects available.  
+  
+
   
 
 
