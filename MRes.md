@@ -34,8 +34,6 @@ Northern Cambodia is home to important populations of the critically endangered 
 
 
 
-
-
 Highland White-Faced Darter Dragonfly Ecology
 ------------------------------------------------
 _w/ Dr. Achaz von Hardenberg_  
@@ -70,7 +68,7 @@ Using atlas data to estimate bird density and occupancy
 ------------------------------------------------
 _w/ Dr. Achaz von Hardenberg_  
 
-Bird atlases represent a huge undertaking which relies largely on the efforts of deeply comiited amateurs around the country. These atlases, plus the survey work which informs them, represents an extremely useful source of information about bird distributions. This project aims to use the North Wales Bird Atlas as the basis for adding value to the bird atlas as a scientific resource. The project will make use of both the atlas data itself along with data from the various surveys which contributed to the atlas. The project will use modern statistical modelling approaches to estimate population density of key species in North Wales with regards to habitat as well as occupancy across the region. This project would suit a student with an interest in ornithology and innovative quantitative ecology methods.  
+Bird atlases represent a huge undertaking which relies largely on the efforts of deeply committed amateurs around the country. These atlases, plus the survey work which informs them, represents an extremely useful source of information about bird distributions. This project aims to use the North Wales Bird Atlas as the basis for adding value to the bird atlas as a scientific resource. The project will make use of both the atlas data itself along with data from the various surveys which contributed to the atlas. The project will use modern statistical modelling approaches to estimate population density of key species in North Wales with regards to habitat as well as occupancy across the region. This project would suit a student with an interest in ornithology and innovative quantitative ecology methods.  
     
 
 
