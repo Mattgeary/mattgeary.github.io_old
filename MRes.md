@@ -10,6 +10,16 @@ During the next academic year I have several research opportunities for
 students who would be interested in undertaking a masters by research
 degree programme.
 
+My projects available this year are:
+*Conservation of critically endangered ibis species  
+*Highland White-Faced Darter Dragonfly Ecology  
+*Pond colonisation on the Black Isle  
+*Great Crested Newt occupancy on the Black Isle  
+*Using atlas data to estimate bird density and occupancy
+*Conservation genetics of Natterjack toads at Red Rocks
+
+Please see the descriptions below for more information
+
 Our MRes programme falls under the umbrella title of [MRes in Biological
 Sciences](http://www.chester.ac.uk/biological-sciences/research/MRes-programmes). The
 course consists of two taught modules completed in the first term
@@ -25,6 +35,8 @@ information about either of these projects please contact Dr Matt Geary
 part of the MRes, please contact Dr Matt Hartley
 (<M.Hartley@Chester.ac.uk>) for a full list of the wildlife behaviour
 and conservation projects available.
+
+<br>
 
 
 Conservation of critically endangered ibis species  
@@ -62,7 +74,7 @@ _w/ Dr. Achaz von Hardenberg_
 Bird atlases represent a huge undertaking which relies largely on the efforts of deeply committed amateurs around the country. These atlases, plus the survey work which informs them, represents an extremely useful source of information about bird distributions. This project aims to use the North Wales Bird Atlas as the basis for adding value to the bird atlas as a scientific resource. The project will make use of both the atlas data itself along with data from the various surveys which contributed to the atlas. The project will use modern statistical modelling approaches to estimate population density of key species in North Wales with regards to habitat as well as occupancy across the region. This project would suit a student with an interest in ornithology and innovative quantitative ecology methods.
 
 
-Natterjack toads at Red Rocks
+Conservation genetics of Natterjack toads at Red Rocks
 ------------------------------------------------
 _w/ Cheshire Wildlife Trust, Dr. Lottie Hosie and Dr. Anna Muir_  
 
