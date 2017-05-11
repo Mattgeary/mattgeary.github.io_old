@@ -19,9 +19,13 @@ My projects available this year are:
 * Great Crested Newt occupancy on the Black Isle  
 * Using atlas data to estimate bird density and occupancy
 * Conservation genetics of Natterjack toads at Red Rocks
+
 <br>
+
 Please see the descriptions below for more information
+
 <br>
+
 Our MRes programme falls under the umbrella title of [MRes in Biological
 Sciences](http://www.chester.ac.uk/biological-sciences/research/MRes-programmes). The
 course consists of two taught modules completed in the first term
