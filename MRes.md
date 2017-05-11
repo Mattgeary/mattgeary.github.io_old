@@ -25,9 +25,12 @@ information about either of these projects please contact Dr Matt Geary
 part of the MRes, please contact Dr Matt Hartley
 (<M.Hartley@Chester.ac.uk>) for a full list of the wildlife behaviour
 and conservation projects available.  
+ 
+Conservation of critically endangered ibis species  
+-----------------------------------------------------  
+_w/ Wildlife Conservation Society & Dr Matt Hartley_  
   
-
-  
+Northern Cambodia is home to important populations of the critically endangered Giant Ibis and White-shouldered Ibis. These species are the focus of a nest protection and monitoring programme run by the Wildlife Conservation Society. They is also regularly caught on a network of camera traps used to monitor rare ungulate species in the region. This project will use these two data sources in combination along with data on habitats, landscape features and land use change to investigate, population trends, habitat preferences and breeding ecology of this threatened species. In particular the project will investigate drivers of population change and the importance specific features of forest pools for these species. The region is also home to several other threatened bird species which and the project may expand to include some of these where possible. This project is desk-based and would suit a student with good analytical and GIS skills who is interested in bird conservation.  
 
 
 
