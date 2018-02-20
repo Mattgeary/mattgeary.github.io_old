@@ -11,7 +11,7 @@ My current research includes conservation projects on birds, amphibians and inve
 
 <br>
 
-I am the programme leader for our [BSc (Hons) in Conservation Biology](http://www.chester.ac.uk/undergraduate/conservation-biology) at the [University of Chester](http://www.chester.ac.uk/departments/biological-sciences), teach on our [Animal Behaviour]() and [Biology]() programmes and I am also involved in out taught [MSc Wildlife Conservation](http://www.chester.ac.uk/postgraduate/wildlife-conservation) programme. 
+I am the programme leader for our [BSc (Hons) in Conservation Biology](http://www.chester.ac.uk/undergraduate/conservation-biology) at the [University of Chester](http://www.chester.ac.uk/departments/biological-sciences), teach on our [Animal Behaviour](https://www1.chester.ac.uk/undergraduate/animal-behaviour) and [Biology](https://www1.chester.ac.uk/undergraduate/biology) programmes and I am also involved in out taught [MSc Wildlife Conservation](http://www.chester.ac.uk/postgraduate/wildlife-conservation) programme. 
 
 <br>
 
