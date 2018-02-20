@@ -6,9 +6,7 @@ title: Output
 Published papers 
 --------------------
 
-__Geary, M.__, Haworth, P.H. & Fielding, A.H. Hen harrier Circus cyaneus nest sites on the Isle of Mull are associated with habitat mosaics and constrained by topography. _Under review with Biological Conservation._  
-
-Nelson, H.P., Devenish-Nelson, E., __Geary, M.__, Rusk, B., & Lawrence, A., A systematic review of climate change impacts on tropical dry forest in a biodiversity hotspot. _Under review with Forest Ecology and Management._  
+__Geary, M.__, Haworth, P.H. & Fielding, A.H. (2018) Hen harrier Circus cyaneus nest sites on the Isle of Mull are associated with habitat mosaics and constrained by topography, Bird Study, DOI: 10.1080/00063657.2017.1421611
 
 __Geary, M.__, Fielding, A. H., McGowan, P. J. K., & Marsden, S. J. (2015). Scenario-Led Habitat Modelling of Land Use Change Impacts on Key Species. PLoS ONE, 10(11), e0142477. http://doi.org/10.1371/journal.pone.0142477  
 
