@@ -7,7 +7,7 @@ I am a senior lecturer in Conservation Biology at the ![Matt](../images/photo.jp
 
 <br>
 
-My current research includes conservation projects on birds, amphibians and invertebrates as well as ecological projects on forest landscapes. In the past I have worked on black grouse conservation and vector-borne disease ecology. My [research outputs](http://mattgeary.github.io/output/) show some of the work I've been involved in before. I am an associate editor at []Bird Study](https://www.bto.org/research-data-services/publications/bird-study) and sit on the management board for the student research journal [Bioscience Horizons](https://academic.oup.com/biohorizons).
+My current research includes conservation projects on birds, amphibians and invertebrates as well as ecological projects on forest landscapes. In the past I have worked on black grouse conservation and vector-borne disease ecology. My [research outputs](http://mattgeary.github.io/output/) show some of the work I've been involved in before. I am an associate editor at [Bird Study](https://www.bto.org/research-data-services/publications/bird-study) and sit on the management board for the student research journal [Bioscience Horizons](https://academic.oup.com/biohorizons).
 
 <br>
 

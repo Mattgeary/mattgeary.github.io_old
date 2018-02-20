@@ -32,7 +32,7 @@ Students are expected to have contacted a potential supervisor and
 agreed this project prior to applying for the course. The tuition fees
 currently stand at £4263 for the MRes programme. The successful
 applicant would also be responsible for their accommodation and living
-costs. Assistance will be provided with fieldwork and equipment costs where possible. For more information about MRes projects with me, please get in touch via email (<M.Geary@Chester.ac.uk>). 
+costs. Assistance will be provided with fieldwork and equipment costs where possible. For more information about MRes projects with me, please get in touch via [email](<M.Geary@Chester.ac.uk>). 
 
 <br>
 
